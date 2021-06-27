@@ -18,6 +18,10 @@
 
 [电子森林](https://www.eetree.cn/doc/detail/2266)
 
+学习资料视频
+
+[网友视频](https://www.eetree.cn/project/detail/245)
+
 ## JLINK 硬件连接图
 
 ![image-20210626214847626](images/image-20210626214847626.png)
